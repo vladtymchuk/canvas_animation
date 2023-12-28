@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Шар_2" data-name="Шар 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 23.56 30.06">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: url(#_Безымянный_градиент_6);
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke-linecap: square;
+        stroke-width: 1.76px;
+      }
+
+      .cls-2 {
+        stroke: url(#_Безымянный_градиент_7);
+      }
+    </style>
+    <linearGradient id="_Безымянный_градиент_6" data-name="Безымянный градиент 6" x1="11.97" y1="479.39" x2="11.58" y2="460.04" gradientTransform="translate(0 488.96) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ec671e"/>
+      <stop offset=".24" stop-color="#f49917"/>
+      <stop offset=".49" stop-color="#ec671e"/>
+      <stop offset=".76" stop-color="#f39a19"/>
+      <stop offset="1" stop-color="#ea5535"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_7" data-name="Безымянный градиент 7" x1="11.78" y1="487.88" x2="11.78" y2="468.58" gradientTransform="translate(0 488.96) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2e509e"/>
+      <stop offset=".22" stop-color="#2a8dcd"/>
+      <stop offset=".26" stop-color="#326eb5"/>
+      <stop offset=".47" stop-color="#2b54a2"/>
+      <stop offset=".67" stop-color="#3056a3"/>
+      <stop offset=".76" stop-color="#2a8dcd"/>
+      <stop offset="1" stop-color="#2e509e"/>
+    </linearGradient>
+  </defs>
+  <g id="_Слой_1" data-name="Слой 1">
+    <path class="cls-1" d="m12.04,9.57l10.22,9.58-10.43,9.7L1.31,18.68l1.83-1.58"/>
+    <path class="cls-2" d="m20.66,11.18l1.59-1.62L11.89,1.13,1.31,9.57l10.58,10.71,5.52-5.68-5.56-5.2-5.56,4.91"/>
+  </g>
+</svg>
